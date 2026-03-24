@@ -3,4 +3,4 @@
 ## Submitted by: Edmundo C. Ederio Jr
 ---
 ## PDF Documentation
-
+[LW3 PDF](LW3_Ederio.pdf)
